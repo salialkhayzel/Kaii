@@ -7,8 +7,8 @@
 /* Colors */
 :root {
   --color-default: #222222;
-  --color-primary: #008374;
-  --color-secondary: #f85a40;
+  --color-primary: #377e75;
+  --color-secondary: #534e4d;
 }
 
 /* Smooth scroll behavior */
@@ -52,7 +52,7 @@ section {
 }
 
 .sections-bg {
-  background-color: #f6f6f6;
+  background-color: #ffffff;
 }
 
 .section-header {
@@ -167,7 +167,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: rgba(248, 90, 64, 0.8);
+  background: rgba(87, 92, 90, 0.8);
   color: #fff;
 }
 
